@@ -1,21 +1,21 @@
 /* Toolbar Styles */
 body.toolbar #toolbar {
-  background-color: #50adf5;
-  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#55b5ff), to(#50adf5));
-  background-image: -webkit-linear-gradient(top, #55b5ff, #50adf5);
-  background-image: -moz-linear-gradient(top, #55b5ff, #50adf5);
-  background-image: -ms-linear-gradient(top, #55b5ff, #50adf5);
-  background-image: -o-linear-gradient(top, #55b5ff, #50adf5);
-  background-image: linear-gradient(to bottom, #55b5ff, #50adf5);
+  background-color: #d90501;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#e40100), to(#d90501));
+  background-image: -webkit-linear-gradient(top, #e40100, #d90501);
+  background-image: -moz-linear-gradient(top, #e40100, #d90501);
+  background-image: -ms-linear-gradient(top, #e40100, #d90501);
+  background-image: -o-linear-gradient(top, #e40100, #d90501);
+  background-image: linear-gradient(to bottom, #e40100, #d90501);
 }
 body.toolbar #toolbar div.toolbar-menu {
-  background-color: #50adf5;
-  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#55b5ff), to(#50adf5));
-  background-image: -webkit-linear-gradient(top, #55b5ff, #50adf5);
-  background-image: -moz-linear-gradient(top, #55b5ff, #50adf5);
-  background-image: -ms-linear-gradient(top, #55b5ff, #50adf5);
-  background-image: -o-linear-gradient(top, #55b5ff, #50adf5);
-  background-image: linear-gradient(to bottom, #55b5ff, #50adf5);
+  background-color: #d90501;
+  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#e40100), to(#d90501));
+  background-image: -webkit-linear-gradient(top, #e40100, #d90501);
+  background-image: -moz-linear-gradient(top, #e40100, #d90501);
+  background-image: -ms-linear-gradient(top, #e40100, #d90501);
+  background-image: -o-linear-gradient(top, #e40100, #d90501);
+  background-image: linear-gradient(to bottom, #e40100, #d90501);
   margin: 0 auto;
   min-height: 50px;
   padding: 3px 0;

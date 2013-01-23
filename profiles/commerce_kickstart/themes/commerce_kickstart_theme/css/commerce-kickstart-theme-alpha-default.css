@@ -48,12 +48,12 @@
       border-radius: 0 8px 8px 0;
       /* LTR */ }
   .navigation .primary-menu ul li a {
-    background-color: #000000;
+    background-color: #0d0d0d;
     color: #ffffff; }
     .navigation .primary-menu ul li a.active, .navigation .primary-menu ul li a:hover {
       background-color: #ffffff; }
     .navigation .primary-menu ul li a.active {
-      color: #2698F2; }
+      color: #d90501; }
     .navigation .primary-menu ul li a:hover {
       color: #000000; }
   .navigation .second-menu ul li a {
@@ -62,7 +62,7 @@
     .navigation .second-menu ul li a.active, .navigation .second-menu ul li a:hover {
       background-color: #000000; }
     .navigation .second-menu ul li a.active {
-      color: #2698F2; }
+      color: #d90501; }
     .navigation .second-menu ul li a:hover {
       color: #ffffff; }
 
