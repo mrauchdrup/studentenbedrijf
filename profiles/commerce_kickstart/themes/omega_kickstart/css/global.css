@@ -1293,12 +1293,11 @@ body.activebar-container .zone-footer2-wrapper {
     display: inline;
     float: left;
     /* LTR */
-    min-height: 380px;
+    min-height: 370px;
     height: auto;
     margin: 0;
-    padding-right: 5px;
+    padding: 5px;
     /* LTR */
-    padding-bottom: 30px;
     width: 230px;
 	border:1px solid #9b9b9b; }
 	
