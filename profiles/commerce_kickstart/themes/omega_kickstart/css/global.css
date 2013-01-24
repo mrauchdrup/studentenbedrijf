@@ -1299,7 +1299,8 @@ body.activebar-container .zone-footer2-wrapper {
     padding-right: 5px;
     /* LTR */
     padding-bottom: 30px;
-    width: 230px; }
+    width: 230px;
+	border:1px solid #9b9b9b; }
 	
   .page-products .view-display-products li.views-row:hover	{
 	  border:1px solid #d90501;}
