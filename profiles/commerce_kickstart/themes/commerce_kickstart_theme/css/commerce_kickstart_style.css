@@ -70,7 +70,7 @@ body {
 *******************************************/
 /* User menu */
 .block-menu-user-menu .content ul.menu li.first {
-  border-right: 1px solid #ffffff;
+  border-right: 1px solid #FCFCFC;
   /* LTR */
   padding-right: 7px;
   /* LTR */ }
@@ -93,7 +93,7 @@ body {
 * Cart block
 */
 .block-shopping-cart-block .content {
-  background-color: #ffffff;
+  background-color: #FCFCFC;
   background-image: url("../images/picto_cart.png"); }
   .block-shopping-cart-block .content .view-shopping-cart .line-item-summary ul.links {
     background-color: #d90501; }
@@ -117,10 +117,10 @@ body {
 * 3.2. Zone content
 **********************************************/
 .zone-content-wrapper .zone-content {
-  background-color: #FFFFFF; }
+  background-color: #FCFCFC; }
 
 .front .zone-content-wrapper .zone-content {
-  padding-top: 0; }
+  padding-top: 10px; }
 
 /*******************************************
 * 3.2.1. Sidebar first
@@ -139,7 +139,7 @@ body {
 #promotional_banner {
   /* HP blocks: Top advert */
   background-color: #d90501;
-  color: #FFFFFF;
+  color: #FCFCFC;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   padding: 5px 10px 20px 10px;
@@ -154,7 +154,7 @@ body {
     text-transform: uppercase;
     width: 100%; }
   #promotional_banner .promotional_banner_special_offer {
-    background-color: #FFFFFF;
+    background-color: #FCFCFC;
     border: 1px solid #CCC;
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
@@ -174,7 +174,7 @@ body {
   /* HP blocks: Side advert */ }
   .block-shipping-discount #shipping {
     background-color: #000000;
-    border: 6px solid #ffffff;
+    border: 6px solid #FCFCFC;
     color: #d90501;
     display: block;
     font-size: 13px;
@@ -183,7 +183,7 @@ body {
     margin-top: 20px;
     padding: 10px 5px 20px 5px; }
   .block-shipping-discount #shipping #shipping_message span {
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid #FCFCFC;
     display: block;
     color: white;
     font-size: 20px;
@@ -238,7 +238,7 @@ body {
 */
 .section-footer ul.menu li.expanded span,
 .section-footer ul.menu li.expanded a {
-  color: #ffffff; }
+  color: #FCFCFC; }
 .section-footer ul.menu li.expanded ul.menu li a {
   color: #c1c1c1; }
 
@@ -305,7 +305,7 @@ body {
       padding: 0 0 4px;
       text-transform: uppercase; }
       .view-collection-taxonomy-term .view-content .item-list h3 .collection a {
-        background-color: #FFFFFF;
+        background-color: #FCFCFC;
         color: #B8B8B8;
         display: block;
         padding: 5px; }
