@@ -98,6 +98,15 @@ body {
   .block-shopping-cart-block .content .view-shopping-cart .line-item-summary ul.links {
     background-color: #d90501; }
 
+/*******************************************
+* 2.2. Region user second
+*******************************************/
+/**
+* Branding block
+*/
+.zone-branding-wrapper	{
+	background:#FCFCFC;	}
+	
 /**************************************************
 * --
 * 3. Section content
