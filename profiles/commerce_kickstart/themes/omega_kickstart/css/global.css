@@ -1300,6 +1300,10 @@ body.activebar-container .zone-footer2-wrapper {
     /* LTR */
     padding-bottom: 30px;
     width: 230px; }
+	
+  .page-products .view-display-products li.views-row:hover	{
+	  border:1px solid #d90501;}
+	  
     .page-products .view-display-products li.views-row.last {
       padding-right: 0;
       /* LTR */ }
