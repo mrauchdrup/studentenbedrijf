@@ -45,7 +45,9 @@
 * --
 **************************************************/
 body {
-  background: #ececec url("../images/bg.png") left top; }
+  background: #ececec url("../images/bg.jpg") left top;
+  background-repeat:no-repeat;
+  background-attachment:fixed; }
 
 .responsive-layout-mobile .facetapi-lists {
   display: none; }
