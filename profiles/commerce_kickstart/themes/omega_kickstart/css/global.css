@@ -343,7 +343,7 @@ select {
       .block-shopping-cart-block .content .view-shopping-cart .line-item-summary .line-item-total-label {
         display: none; }
       .block-shopping-cart-block .content .view-shopping-cart .line-item-summary ul.links {
-        background-color: #1818189;
+        background-color: #d90501;
         clear: none;
         color: white;
         display: block;
@@ -519,17 +519,17 @@ select {
           .navigation .second-menu ul li a:hover {
             text-decoration: none; }
   .navigation .primary-menu ul li a {
-    background-color: #eeeeee;
-    border: 1px solid #cccccc;
-    color: #181818;
+    background-color: #181818;
+    border: 1px solid #0d0d0d;
+    color: #fcfcfc;
     text-transform: capitalize; }
     .navigation .primary-menu ul li a.active, .navigation .primary-menu ul li a:hover {
-      background-color: white;
-      border: 1px solid #cccccc; }
+      background-color: #0d0d0d;
+      border: 1px solid #000000; }
     .navigation .primary-menu ul li a.active {
-      color: black; }
+      color: #d90501; }
     .navigation .primary-menu ul li a:hover {
-      color: #1818189; }
+      color: #d90501; }
   .navigation .second-menu {
     clear: left; }
     .navigation .second-menu ul li a {
@@ -544,7 +544,7 @@ select {
       .navigation .second-menu ul li a.active {
         color: black; }
       .navigation .second-menu ul li a:hover {
-        color: #1818189; }
+        color: #181818; }
 
 .zone-menu .block-menu {
   display: block;
@@ -574,7 +574,7 @@ select {
       .zone-menu .block-menu ul.menu li a.active {
         color: black; }
       .zone-menu .block-menu ul.menu li a:hover {
-        color: #1818189;
+        color: #181818;
         text-decoration: none; }
 
 /**************************************************
@@ -1010,7 +1010,7 @@ select {
         float: none;
         padding: 0; }
         .section-footer ul.menu li.expanded ul.menu li a {
-          color: #1818189;
+          color: #181818;
           font-family: "Open Sans", sans-serif;
           font-weight: normal; }
           .section-footer ul.menu li.expanded ul.menu li a.active {
@@ -1051,7 +1051,7 @@ select {
       background-position: 2% 50%;
       /* LTR */
       background-repeat: no-repeat;
-      color: #1818189;
+      color: #181818;
       font-family: 'Open Sans', sans-serif;
       font-weight: 400;
       display: block;
@@ -1072,7 +1072,7 @@ select {
 * 4.2. Zone footer2
 **********************************************/
 .zone-footer2-wrapper {
-  background-color: #cccccc;
+  background-color: #181818;
   min-height: 60px;
   padding: 20px 0; }
 
@@ -2794,7 +2794,7 @@ article.comment {
   margin: 1.5em 0 2em 0.5em; }
   .page-user-addressbook ul.action-links li a {
     background: -moz-linear-gradient(center top, white 0%, #dddddd 100%) repeat scroll 0 0 transparent;
-    border-color: #DDDDDD #BBBBBB #1818189;
+    border-color: #DDDDDD #BBBBBB #181818;
     -moz-border-radius: 11px;
     -webkit-border-radius: 11px;
     -khtml-border-radius: 11px;
