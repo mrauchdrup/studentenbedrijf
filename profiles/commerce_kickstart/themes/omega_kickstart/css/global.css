@@ -373,7 +373,8 @@ select {
 * 2.2. Zone branding
 **********************************************/
 #zone-branding-wrapper	{
-  background:#fcfcfc;
+  background:#eee;
+  border-bottom:1px solid #eee;
   opacity:0.72;	}
 
 .zone-branding .region-branding {
