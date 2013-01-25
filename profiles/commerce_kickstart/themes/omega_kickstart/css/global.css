@@ -373,7 +373,13 @@ select {
 * 2.2. Zone branding
 **********************************************/
 #zone-branding-wrapper	{
-	background:#FCFCFC;	}
+	    background-color: #ccc;
+        background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ddd), to(#ccc));
+	    background-image: -webkit-linear-gradient(top, #ddd, #ccc);
+	    background-image: -moz-linear-gradient(top, #ddd, #ccc);
+	    background-image: -ms-linear-gradient(top, #ddd, #ccc);
+	    background-image: -o-linear-gradient(top, #ddd, #ccc);
+	    background-image: linear-gradient(to bottom, #ddd, #ccc);	}
 
 .zone-branding .region-branding {
   margin: 50px 0 15px 0; }
