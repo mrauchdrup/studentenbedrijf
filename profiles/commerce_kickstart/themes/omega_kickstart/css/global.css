@@ -127,7 +127,7 @@ body {
   margin: 0;
   width: 100%;
   overflow-x: hidden; 
-  background: #ececec url("../images/bg.jpg") left top;
+  background: #ececec url("../images/bg.jpg") 50% 0;
   background-repeat:no-repeat;
   background-attachment:fixed; }
 
