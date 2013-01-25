@@ -675,7 +675,8 @@ select {
 * 3.2. Zone content
 **********************************************/
 .zone-content-wrapper {
-  height: 100%; }
+  height: 100%;
+  background:#fcfc; }
   .zone-content-wrapper .zone-content {
     margin-bottom: 40px;
     padding-top: 10px;
