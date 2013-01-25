@@ -2297,7 +2297,8 @@ ol.inline.commerce-checkout-progress {
   clear: none;
   float: none; }
 .page-blog .region-content .view-content .views-row {
-  border: 1px solid #E0E3E6;
+  background:#fcfcfc;
+  border: 1px solid #181818;
   display: block;
   margin: 15px 0px;
   padding: 0px;
