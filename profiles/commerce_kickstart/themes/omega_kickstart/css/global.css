@@ -373,7 +373,8 @@ select {
 * 2.2. Zone branding
 **********************************************/
 #zone-branding-wrapper	{
-  background:#181818;	}
+  background:#fcfcfc;
+  opacity:0.72;	}
 
 .zone-branding .region-branding {
   margin: 50px 0 15px 0; }
@@ -1087,13 +1088,7 @@ select {
 * 4.2. Zone footer2
 **********************************************/
 .zone-footer2-wrapper {
-  background-color: #0d0d0d;
-  background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#181818), to(#0d0d0d));
-  background-image: -webkit-linear-gradient(top, #181818, #0d0d0d);
-  background-image: -moz-linear-gradient(top, #181818, #0d0d0d);
-  background-image: -ms-linear-gradient(top, #181818, #0d0d0d);
-  background-image: -o-linear-gradient(top, #181818, #0d0d0d);
-  background-image: linear-gradient(to bottom, #181818, #0d0d0d);
+  background-color: #181818;
   min-height: 60px;
   padding: 20px 0; }
 
