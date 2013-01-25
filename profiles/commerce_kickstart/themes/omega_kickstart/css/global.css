@@ -126,7 +126,11 @@ body {
   font-size: 14px;
   margin: 0;
   width: 100%;
-  overflow-x: hidden; }
+  overflow-x: hidden; 
+  background: #ececec url("../images/bg.jpg") left top;
+  background-repeat:no-repeat;
+  background-attachment:fixed; }
+
 
 .region {
   margin: 0 10px; }
